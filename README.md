@@ -1,0 +1,1 @@
+This project is about social networking involving comments made by both sender and the reader. It goes as far as including the follower and the one being followed, likes and time when comments are made.
